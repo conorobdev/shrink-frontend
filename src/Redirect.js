@@ -10,7 +10,7 @@ const Redirect = () => {
     });
 
     return(
-        <p>{objectId.id}</p>
+        <p>Redirecting</p>
     )
 };
 

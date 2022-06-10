@@ -1,6 +1,6 @@
 import './App.css';
 import Home from './Home';
-import Redirect from './redirect';
+import Redirect from './Redirect';
 import {
   BrowserRouter as Router,
   Route,
